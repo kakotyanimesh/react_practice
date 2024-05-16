@@ -31,6 +31,70 @@ const VIDEOS = [{
             views :"81k",
             timestamp:"3 days ago"
             }
+        ,{
+            title:"ASMR - FALL ASLEEP before I reach 300? (mirrored touching + brushing)",
+            Channelimage : "channels4_profile.jpg",
+            thumbnail : "1st.jpg",
+            author : "WhisperAudios ASMR ",
+            views :"81k",
+            timestamp:"3 days ago"
+            }
+        ,{
+            title:"ASMR - FALL ASLEEP before I reach 300? (mirrored touching + brushing)",
+            Channelimage : "channels4_profile.jpg",
+            thumbnail : "1st.jpg",
+            author : "WhisperAudios ASMR ",
+            views :"81k",
+            timestamp:"3 days ago"
+            }
+        ,{
+            title:"ASMR - FALL ASLEEP before I reach 300? (mirrored touching + brushing)",
+            Channelimage : "channels4_profile.jpg",
+            thumbnail : "1st.jpg",
+            author : "WhisperAudios ASMR ",
+            views :"81k",
+            timestamp:"3 days ago"
+            }
+        ,{
+            title:"ASMR - FALL ASLEEP before I reach 300? (mirrored touching + brushing)",
+            Channelimage : "channels4_profile.jpg",
+            thumbnail : "1st.jpg",
+            author : "WhisperAudios ASMR ",
+            views :"81k",
+            timestamp:"3 days ago"
+            }
+        ,{
+            title:"ASMR - FALL ASLEEP before I reach 300? (mirrored touching + brushing)",
+            Channelimage : "channels4_profile.jpg",
+            thumbnail : "1st.jpg",
+            author : "WhisperAudios ASMR ",
+            views :"81k",
+            timestamp:"3 days ago"
+            }
+        ,{
+            title:"ASMR - FALL ASLEEP before I reach 300? (mirrored touching + brushing)",
+            Channelimage : "channels4_profile.jpg",
+            thumbnail : "1st.jpg",
+            author : "WhisperAudios ASMR ",
+            views :"81k",
+            timestamp:"3 days ago"
+            }
+        ,{
+            title:"ASMR - FALL ASLEEP before I reach 300? (mirrored touching + brushing)",
+            Channelimage : "channels4_profile.jpg",
+            thumbnail : "1st.jpg",
+            author : "WhisperAudios ASMR ",
+            views :"81k",
+            timestamp:"3 days ago"
+            }
+        ,{
+            title:"ASMR - FALL ASLEEP before I reach 300? (mirrored touching + brushing)",
+            Channelimage : "channels4_profile.jpg",
+            thumbnail : "1st.jpg",
+            author : "WhisperAudios ASMR ",
+            views :"81k",
+            timestamp:"3 days ago"
+            }
         ]
 
 
